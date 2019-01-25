@@ -128,7 +128,7 @@ In today’s world, people expect consistent, cohesive experiences at every touc
 <column lg="16">
 
 <tile
-    href="#"
+    href="https://www.ibm.com/services/ibmix/"
     title="IBM iX"
     feature="true"
     feature_heading="Partner with us to build
